@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, my name is Niall,
+My name is Niall,
 
 I am a PhD student doing research in the Astrophysics Group of University College London. I am also a Fellow of the Royal Astronomical Society, which is based here in London.
 
