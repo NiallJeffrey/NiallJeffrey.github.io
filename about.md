@@ -16,5 +16,5 @@ Before my PhD, I did an MSci (Master in Science) degree in "Physics and Theoreti
 
 #### To contact me
 
-My ArXiv email address: [arxiv.org/show-email/9b040882/1801.08945](https://arxiv.org/show-email/9b040882/1801.08945) <br/>
-(Not for robots)
+My ArXiv email address: 
+![screenshot](/images/address.png)
