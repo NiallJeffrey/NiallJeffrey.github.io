@@ -4,7 +4,7 @@ title: My Research
 permalink: /research/
 ---
 
-### Dark matter mapping from gravitational lensing using gaussian and sparsity priors
+### Dark matter mapping from gravitational lensing using Gaussian and sparsity priors
 [Link to paper](https://arxiv.org/abs/1801.08945)
 
 [Link to UCL press release](https://www.ucl.ac.uk/mathematical-physical-sciences/news/2018/may/ucl-led-team-uses-new-data-science-techniques-dark-matter-maps)
