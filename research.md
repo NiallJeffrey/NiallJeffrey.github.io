@@ -4,6 +4,10 @@ title: My Research
 permalink: /research/
 ---
 
+Physics is experiencing an exciting period of uncertainty about the nature of dark energy, dark matter, and gravitation. With 95% of the mass-energy of the Universe still unexplained, the answers to many further fundamental questions of astro-, theoretical- and particle-physics are being hampered. 
+
+I work on novel approaches, which use a combination of theory, Bayesian statistic and Artificial Intelligence to answer fundamental physics questions that cannot be attempted using traditional approaches. 
+
 ### Dark matter mapping from gravitational lensing using Gaussian and sparsity priors
 [Link to paper](https://arxiv.org/abs/1801.08945)
 
