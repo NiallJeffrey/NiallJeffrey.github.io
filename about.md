@@ -16,7 +16,7 @@ My research is about **cosmology**. Cosmology is the study of the largest scales
 
 My personal research covers gravitational lensing, galaxy surveys and statistical methods. This is primarily to study Dark Energy and Dark Matter.
 
-Before my PhD, I did an MSci (Master in Science) degree in "Physics and Theoretical Physics" at Imperial College London.
+Before my PhD at UCL, I did an MSci (Master in Science) degree in "Physics and Theoretical Physics" at Imperial College London.
 
 #### To contact me
 
