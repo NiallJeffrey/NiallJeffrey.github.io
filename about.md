@@ -10,7 +10,7 @@ I am a researcher working at the École normale supérieure in Paris. I am inter
 
 To quantify understanding I am interested in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) interpretation of artificial intelligence methods.
 
-I am also a Fellow of the Royal Astronomical Society, which is based here London.
+I am also a Fellow of the Royal Astronomical Society in London.
 
 My research is about **cosmology**. Cosmology is the study of the largest scales in the Universe; the longest times and the furthest distances. There are a huge number of [unsolved problems](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics#Cosmology_and_general_relativity), which require an understanding of fundamental physics and its relationship to data.
 
