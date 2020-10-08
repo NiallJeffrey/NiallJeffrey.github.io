@@ -6,9 +6,9 @@ permalink: /about/
 
 My name is Niall,
 
-I am a researcher working at the École normale supérieure in Paris. I am interested in combining different cosmological data together using statistical and machine learning methods to: (1) understand the Universe, & (2) quantify our understanding the Universe. 
+I am a researcher working at the École normale supérieure in Paris. I combine different cosmological data using statistical and machine learning methods to understand the Universe. 
 
-To quantify understanding I am interested in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) interpretation of artificial intelligence methods.
+To quantify understanding I am interested in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) artificial intelligence methods.
 
 I am also a Fellow of the Royal Astronomical Society in London.
 
